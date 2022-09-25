@@ -1,2 +1,2 @@
 # newrepo
-this is a practice repo fot connnecting
+this is a practice repo for connnecting
